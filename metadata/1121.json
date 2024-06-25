@@ -1,23 +1,23 @@
 {
-  "name": "TonAlchemists OG Mascot",
-  "description": "MagicTown Leader",
-  "image": "https://raw.githubusercontent.com/TonAlchemists/TONAlchemistNFT/master/images/1120.png",
+  "name": "Alchemist #1121",
+  "description": "Alchemists NFT, a limited-edition collection introducing new visual standards on the Blockchain TON, an introduction to MagicTown, unlock revenue share profits from our platform and many more magical bonuses!",
+  "image": "https://raw.githubusercontent.com/TonAlchemists/TONAlchemistNFT/master/images/1121.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Potion-trip Vision"
+      "value": "Light Yellow"
     },
     {
       "trait_type": "Clothes",
-      "value": "The Outfit the TonAlchemist wore while mixing his first Magic Potion"
+      "value": "Grey Pullover"
     },
     {
       "trait_type": "Head Fillings",
-      "value": "MagicTown's Rushing River of Happiness"
+      "value": "Calculator"
     },
     {
       "trait_type": "Head",
-      "value": "OG's Head"
+      "value": "Magic Head"
     },
     {
       "trait_type": "Masks",
@@ -25,14 +25,14 @@
     },
     {
       "trait_type": "Caps",
-      "value": "Cap of Eternal Creativity"
+      "value": "Mushroom-house"
     },
     {
       "trait_type": "Glasses",
-      "value": "OG's Glasses"
+      "value": "Alchemist Glasses"
     },
     {
       "trait_type": "Mouth",
-      "value": "A Magical Boil Pipe - source of inspiration during the creation of the Main Collection"
+      "value": "Skeleton Smoking Pipe "
     }
   ]}

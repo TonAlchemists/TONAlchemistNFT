@@ -1,38 +1,38 @@
 {
-  "name": "Alchemist #345",
-  "description": "Alchemists NFT, a limited-edition collection introducing new visual standards on the Blockchain TON, an introduction to MagicTown, unlock revenue share profits from our platform and many more magical bonuses!",
-  "image": "https://raw.githubusercontent.com/TonAlchemists/TONAlchemistNFT/master/images/345.png",
+  "name": "King of Alchemical Gambling",
+  "description": "One of the wealthiest alchemists...",
+  "image": "https://raw.githubusercontent.com/TonAlchemists/TONAlchemistNFT/master/images/1122.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink-White"
+      "value": "Casino Blue"
     },
     {
       "trait_type": "Clothes",
-      "value": "Skeleton"
+      "value": "Alchemical Cashmere Suit"
     },
     {
       "trait_type": "Head Fillings",
-      "value": "Water"
+      "value": "Biggest Diamond seen on TON Blockchain"
     },
     {
       "trait_type": "Head",
-      "value": "Magic Head"
+      "value": "Gambler's Head"
     },
     {
       "trait_type": "Masks",
-      "value": "Patch"
+      "value": "Gabler's Mask"
     },
     {
       "trait_type": "Caps",
-      "value": "Lucid-smile Cap"
+      "value": "Gambler's Hat"
     },
     {
       "trait_type": "Glasses",
-      "value": "Orange Glasses"
+      "value": "Gambler's Glasses"
     },
     {
       "trait_type": "Mouth",
-      "value": "MoneyTalking Mouth"
+      "value": "Winner's Scepter"
     }
   ]}
