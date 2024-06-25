@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #243",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist243.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink-White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Light Green Sweater"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Brain"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Orange Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Beard with Toothpick"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist243.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

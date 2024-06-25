@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #506",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist506.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Magic Chaos"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flower Cigar"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist506.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

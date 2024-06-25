@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #125",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist125.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Grey Pullover"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Lucid-smile Cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Magic Cigar and Mustache"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist125.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

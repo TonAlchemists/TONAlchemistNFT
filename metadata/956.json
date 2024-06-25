@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #956",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist956.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange-Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Brain"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Hermit Google"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Magic Cigar and Mustache"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist956.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

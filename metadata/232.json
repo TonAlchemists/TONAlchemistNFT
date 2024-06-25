@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #232",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist232.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Grey Pullover"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Storm"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Sweet Bunny with Carrot"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Fuzzy Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flower Cigar"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist232.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

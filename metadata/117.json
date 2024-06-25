@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #117",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist117.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink-White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crewneck"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Magic Rock"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Magic Cowboy Hat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Hermit Google"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flower Cigar"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist117.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

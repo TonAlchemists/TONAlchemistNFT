@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #133",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist133.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue-White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Magic coat and tie-dye shirt"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Storm"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "MagicTown Devil"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Orange Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MoneyTalking Mouth"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist133.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

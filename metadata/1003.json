@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #1003",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist1003.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange-Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Brown garment"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Orange Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MoneyTalking Mouth"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist1003.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #81",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist81.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue-White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Magic coat and tie-dye shirt"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Alchemist # Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Water dripping "
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist81.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

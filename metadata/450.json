@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #450",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist450.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange-Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Grey Pullover"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Magic Rock"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "GoPro"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Orange Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flower Cigar"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist450.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

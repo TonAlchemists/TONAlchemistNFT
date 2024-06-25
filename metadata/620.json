@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #620",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist620.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink-White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Magic Hermit"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Aureole"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette in Teeth"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist620.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

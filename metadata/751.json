@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #751",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist751.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crewneck"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Magic Rock"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "GoPro"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette in Teeth"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist751.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #654",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist654.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Light Green Sweater"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Brain"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flower Cigar"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist654.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

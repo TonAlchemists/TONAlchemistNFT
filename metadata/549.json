@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #549",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist549.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Grey Pullover"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Storm"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette in Teeth"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist549.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

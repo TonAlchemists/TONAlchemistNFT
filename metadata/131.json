@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #131",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist131.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Magic Jacket"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Magic Rock"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Lucid-smile Cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Skeleton Smoking Pipe "
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist131.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

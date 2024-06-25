@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #338",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist338.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue-White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Light Green Sweater"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Magic Rock"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "MagicTown Devil"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Magic Cigar and Mustache"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist338.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

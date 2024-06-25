@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #691",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist691.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Magic Chaos"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Aureole"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MoneyTalking Mouth"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist691.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

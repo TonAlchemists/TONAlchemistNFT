@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #788",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist788.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange-Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crewneck"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Brain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MoneyTalking Mouth"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist788.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

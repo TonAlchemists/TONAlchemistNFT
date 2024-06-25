@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #748",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist748.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Brown garment"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "MagicTown Devil"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Magic Cigar and Mustache"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist748.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

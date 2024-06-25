@@ -1,0 +1,41 @@
+{
+  "name": "Alchemist #664",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist664.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink-White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Magic Hermit"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Bunny Mask"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist664.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

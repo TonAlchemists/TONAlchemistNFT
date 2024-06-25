@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #306",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist306.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Pullover"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Storm"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "MagicTown Devil"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Beard with Toothpick"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist306.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #280",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist280.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Brown garment"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Magic Rock"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Mushrooms"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Magic Cigar and Mustache"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist280.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #360",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist360.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Magic coat and tie-dye shirt"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Storm"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Magic Warrior Sword"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flower Cigar"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist360.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

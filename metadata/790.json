@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #790",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist790.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Light Green Sweater"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Storm"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Bunny Mask"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Fuzzy Rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Beard with Toothpick"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist790.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

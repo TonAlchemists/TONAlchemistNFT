@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #592",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist592.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue-White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Pullover"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Mushrooms"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette in Teeth"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist592.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

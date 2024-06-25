@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #19",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist19.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue-White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Brown garment"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Mushrooms"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Beard with Toothpick"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist19.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

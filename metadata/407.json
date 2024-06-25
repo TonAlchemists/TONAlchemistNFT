@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #407",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist407.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Royal Green-Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Pullover"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "MagicTown Devil"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MoneyTalking Mouth"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist407.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

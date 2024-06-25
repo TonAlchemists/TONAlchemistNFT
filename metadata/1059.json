@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #1059",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist1059.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Brown garment"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Magic Rock"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Aureole"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Hermit Google"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flower Cigar"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist1059.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

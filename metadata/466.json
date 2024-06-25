@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #466",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist466.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange-Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Light Green Sweater"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Sweet Bunny with Carrot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Water dripping "
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist466.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #29",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist29.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Brown garment"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Magic Rock"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Orange Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Beard with Toothpick"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist29.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

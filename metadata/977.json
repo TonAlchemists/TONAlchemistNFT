@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #977",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist977.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink-White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Grey Pullover"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Aureole"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Water dripping "
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist977.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

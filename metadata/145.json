@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #145",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist145.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Pullover"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Calculator"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Magic Warrior Sword"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MoneyTalking Mouth"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist145.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

@@ -1,0 +1,49 @@
+{
+  "name": "Alchemist #45",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist45.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crewneck"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Lucid-smile Cap"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Hermit Google"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Skeleton Smoking Pipe "
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist45.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}

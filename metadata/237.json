@@ -1,0 +1,45 @@
+{
+  "name": "Alchemist #237",
+  "description": "",
+  "external_url": "",
+  "image": "alchemist237.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Magic coat and tie-dye shirt"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Mushrooms"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Skeleton Smoking Pipe "
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "alchemist237.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }}
