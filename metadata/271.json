@@ -1,8 +1,7 @@
 {
   "name": "Alchemist #271",
-  "description": "",
-  "external_url": "",
-  "image": "alchemist271.png",
+  "description": "Alchemists NFT, a limited-edition collection introducing new visual standards on the Blockchain TON, an introduction to MagicTown, unlock revenue share profits from our platform and many more magical bonuses!",
+  "image": "https://raw.githubusercontent.com/TonAlchemists/TONAlchemistNFT/master/images/271.png",
   "attributes": [
     {
       "trait_type": "Background",
@@ -36,14 +35,4 @@
       "trait_type": "Mouth",
       "value": "Water dripping "
     }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "alchemist271.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": []
-  }}
+  ]}

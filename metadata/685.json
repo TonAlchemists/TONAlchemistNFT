@@ -1,8 +1,7 @@
 {
   "name": "Alchemist #685",
-  "description": "",
-  "external_url": "",
-  "image": "alchemist685.png",
+  "description": "Alchemists NFT, a limited-edition collection introducing new visual standards on the Blockchain TON, an introduction to MagicTown, unlock revenue share profits from our platform and many more magical bonuses!",
+  "image": "https://raw.githubusercontent.com/TonAlchemists/TONAlchemistNFT/master/images/685.png",
   "attributes": [
     {
       "trait_type": "Background",
@@ -32,14 +31,4 @@
       "trait_type": "Mouth",
       "value": "MoneyTalking Mouth"
     }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "alchemist685.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": []
-  }}
+  ]}

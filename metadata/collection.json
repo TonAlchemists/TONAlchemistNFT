@@ -1,7 +1,7 @@
 {
-  "name": "",
-  "description": "",
-  "image": "",
-  "cover_image": "",
-  "social_links": ""
+  "name": "Alchemists",
+  "description": "TonAlchemist's Main Collection is the most beautiful NFT on the TON blockchain, developed in every detail over countless weeks. We are here not only to introduce new standards, but also to give you some Magic in your life.",
+  "image": "https://raw.githubusercontent.com/TonAlchemists/TONAlchemistNFT/master/ton-alchemists-nft-logo.png",
+  "cover_image": "https://raw.githubusercontent.com/TonAlchemists/TONAlchemistNFT/master/banner-raffles.png",
+  "social_links": ["https://x.com/TonAlchemists", "https://t.me/TonAlchemists", "https://t.me/TONAlchemistsBot", "https://t.me/TONAlchemistBot", "https://www.instagram.com/ton_alchemists"]
 }

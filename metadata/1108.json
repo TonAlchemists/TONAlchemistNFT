@@ -1,8 +1,7 @@
 {
   "name": "Alchemist #1108",
-  "description": "",
-  "external_url": "",
-  "image": "alchemist1108.png",
+  "description": "Alchemists NFT, a limited-edition collection introducing new visual standards on the Blockchain TON, an introduction to MagicTown, unlock revenue share profits from our platform and many more magical bonuses!",
+  "image": "https://raw.githubusercontent.com/TonAlchemists/TONAlchemistNFT/master/images/1108.png",
   "attributes": [
     {
       "trait_type": "Background",
@@ -30,20 +29,10 @@
     },
     {
       "trait_type": "Glasses",
-      "value": "Alchemist # Glasses"
+      "value": "Alchemist Glasses"
     },
     {
       "trait_type": "Mouth",
       "value": "Magic Cigar and Mustache"
     }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "alchemist1108.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": []
-  }}
+  ]}

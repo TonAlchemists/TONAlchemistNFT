@@ -1,0 +1,38 @@
+{
+  "name": "Alchemist King holding Diamond Potion",
+  "description": "Alchemist King, adorned with regal attire, holding a shimmering Diamond Potion, symbolizing wealth and alchemical mastery.",
+  "image": "https://raw.githubusercontent.com/TonAlchemists/TONAlchemistNFT/master/images/1123.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Royal Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Royal Hwang Robe"
+    },
+    {
+      "trait_type": "Head Fillings",
+      "value": "Diamond-Mind"
+    },
+    {
+      "trait_type": "Head",
+      "value": "King's Head"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "King's Mask"
+    },
+    {
+      "trait_type": "Caps",
+      "value": "Royal Crown"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "King's Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Diamond Potion"
+    }
+  ]}
