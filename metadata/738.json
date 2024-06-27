@@ -1,38 +1,35 @@
 {
   "name": "Alchemist #738",
-  "description": "Alchemists NFT, a limited-edition collection introducing new visual standards on the Blockchain TON, an introduction to MagicTown, unlock revenue share profits from our platform and many more magical bonuses!",
+  "description": "TonAlchemist's main collection is the most beautiful NFT on the TON blockchain, developed in every detail over countless weeks. We are here not only to introduce new standards, but also to give you some Magic in your life.",
   "image": "https://raw.githubusercontent.com/TonAlchemists/TONAlchemistNFT/master/images/738.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Yellow"
+      "value": "Mint"
     },
     {
       "trait_type": "Clothes",
-      "value": "Brown garment"
+      "value": "Green Pullover"
     },
     {
-      "trait_type": "Head Fillings",
-      "value": "Ice"
+      "trait_type": "Skin",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Ball",
+      "value": "Crystal Ball"
     },
     {
       "trait_type": "Head",
-      "value": "Magic Head"
-    },
-    {
-      "trait_type": "Masks",
-      "value": "Patch"
-    },
-    {
-      "trait_type": "Caps",
-      "value": "MagicTown Devil"
-    },
-    {
-      "trait_type": "Glasses",
-      "value": "Hermit Google"
+      "value": "Bull"
     },
     {
       "trait_type": "Mouth",
-      "value": "Flower Cigar"
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
     }
-  ]}
+  ]
+}

@@ -12,27 +12,24 @@
       "value": "Royal Hwang Robe"
     },
     {
-      "trait_type": "Head Fillings",
-      "value": "Diamond-Mind"
+      "trait_type": "Skin",
+      "value": "Diamond Mind"
+    },
+    {
+      "trait_type": "Ball",
+      "value": "Crystal Ball"
     },
     {
       "trait_type": "Head",
-      "value": "King's Head"
-    },
-    {
-      "trait_type": "Masks",
-      "value": "King's Mask"
-    },
-    {
-      "trait_type": "Caps",
       "value": "Royal Crown"
-    },
-    {
-      "trait_type": "Glasses",
-      "value": "King's Glasses"
     },
     {
       "trait_type": "Mouth",
       "value": "Diamond Potion"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "King's Eyes"
     }
-  ]}
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "name": "King of Alchemical Gambling",
   "description": "One of the wealthiest alchemists...",
-  "image": "https://raw.githubusercontent.com/TonAlchemists/TONAlchemistNFT/master/images/1122.png",
+  "image": "https://raw.githubusercontent.com/TonAlchemists/TONAlchemistNFT/master/images/345.png",
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,27 +12,24 @@
       "value": "Alchemical Cashmere Suit"
     },
     {
-      "trait_type": "Head Fillings",
+      "trait_type": "Skin",
       "value": "Biggest Diamond seen on TON Blockchain"
     },
     {
+      "trait_type": "Ball",
+      "value": "Crystal Ball"
+    },
+    {
       "trait_type": "Head",
-      "value": "Gambler's Head"
-    },
-    {
-      "trait_type": "Masks",
-      "value": "Gabler's Mask"
-    },
-    {
-      "trait_type": "Caps",
       "value": "Gambler's Hat"
-    },
-    {
-      "trait_type": "Glasses",
-      "value": "Gambler's Glasses"
     },
     {
       "trait_type": "Mouth",
       "value": "Winner's Scepter"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gambler's Glasses"
     }
-  ]}
+  ]
+}
